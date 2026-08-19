@@ -1,12 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Soham!;AI+Engineer;RAG+Pipelines+%7C+Multi-Agent+Systems;LangChain+%7C+AutoGen+%7C+LLMs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=F72585&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Soham!;AI+Engineer;RAG+Pipelines+%7C+Multi-Agent+Systems;LangChain+%7C+AutoGen+%7C+LLMs)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Soham-global&color=00FFFF&style=flat-square&label=Profile+Views)
 
 </div>
-
----
 
 ## 👋 About Me
 
@@ -17,8 +15,6 @@
 🎓 B.Tech in Computer Science, Guru Nanak Dev University
 
 📄 Reach me at **magiciancoder1@gmail.com**
-
----
 
 ## 🚀 Tech Stack
 
@@ -50,8 +46,6 @@
 
 </div>
 
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -59,8 +53,6 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soham-global&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
-
----
 
 ## 📊 GitHub Stats
 
@@ -76,8 +68,6 @@
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Soham-global&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
----
 
 ## 💡 Currently
 
