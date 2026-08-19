@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Soham!;AI+Engineer;RAG+Pipelines+%7C+Multi-Agent+Systems;LangChain+%7C+AutoGen+%7C+LLMs)](https://git.io/typing-svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Soham-global&color=00FFFF&style=flat-square&label=Profile+Views)
+
 </div>
 
 ---
@@ -37,6 +39,26 @@
 
 ### 🌐 Backend & Data
 ![Backend Icons](https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql,cpp)
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Soham-global&theme=tokyonight&no-frame=true&row=1&column=6)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soham-global&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
 
 ---
 
