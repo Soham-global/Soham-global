@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Soham!;AI+Engineer;RAG+Pipelines+%7C+Multi-Agent+Systems;LangChain+%7C+AutoGen+%7C+LLMs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Soham!;AI+Engineer;RAG+Pipelines+%7C+Multi-Agent+Systems;LangChain+%7C+AutoGen+%7C+LLMs)](https://git.io/typing-svg)
 
 </div>
 
@@ -42,11 +42,21 @@
 
 ![Soham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soham-global&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Soham-global&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Soham-global&theme=tokyonight&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soham-global&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
+---
+
+## 💡 Currently
+
+- 🔭 I'm currently working on **RAG pipelines** and **multi-agent AI systems**
+- 🌱 I'm currently exploring **LangGraph** and advanced **LLM orchestration**
+- 🤝 I'm looking to collaborate on **GenAI / Agentic AI** projects
+- 💬 Ask me about **RAG**, **LangChain**, **AutoGen**, or **LLM-based applications**
+- 📫 How to reach me: **magiciancoder1@gmail.com**
 
 ---
 
