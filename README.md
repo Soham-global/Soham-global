@@ -46,7 +46,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Soham-global&theme=tokyonight&no-frame=true&row=1&column=6)
+![Trophies](https://github-profile-trophy-winning.vercel.app/?username=Soham-global&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
@@ -66,9 +66,12 @@
 
 <div align="center">
 
-![Soham's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Soham-global&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Soham-global&theme=tokyonight&hide_border=true)
+<table>
+<tr>
+<td><img src="https://github-stats-extended.vercel.app/api?username=Soham-global&show_icons=true&theme=tokyonight&hide_border=true" alt="Soham's GitHub Stats" /></td>
+<td><img src="https://streak-stats.demolab.com/?user=Soham-global&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></td>
+</tr>
+</table>
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Soham-global&layout=compact&theme=tokyonight&hide_border=true)
 
