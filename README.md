@@ -29,10 +29,14 @@
 ### 🗂️ Vector Databases
 `ChromaDB` `Pinecone` `FAISS`
 
-### 👁️ Computer Vision
-`YOLOv5` `OpenCV` `Object Detection` `Transfer Learning` `CNNs`
+### 👁️ AI/ML & Computer Vision
+![AI/ML Icons](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv)
 
-![Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,fastapi,flask,postgres,mysql,cpp,docker,git,aws)
+### ☁️ Cloud & DevOps
+![Cloud Icons](https://skillicons.dev/icons?i=aws,docker,git,github,vscode)
+
+### 🌐 Backend & Data
+![Backend Icons](https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql,cpp)
 
 ---
 
@@ -40,11 +44,11 @@
 
 <div align="center">
 
-![Soham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soham-global&show_icons=true&theme=tokyonight&hide_border=true)
+![Soham's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Soham-global&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Soham-global&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soham-global&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Soham-global&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
